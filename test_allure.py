@@ -1,6 +1,6 @@
 import allure
 
 @allure.step('start')
-def test_1():
+def test_give_back_one():
     print('yes')
     return 1
